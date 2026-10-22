@@ -61,8 +61,8 @@ Lever ablation on `remote_stress` (each lever alone, same years):
 | + fuel logic only | 0.60% | 68.5 | 1,731 |
 | all four (smart) | 0.45% | 65.9 | 1,935 |
 
-![Exceedance curves](out_438_sla\fig1_exceedance.png)
-![One event](out_438_sla\fig2_event_trace.png)
+![Exceedance curves](out_438_sla/fig1_exceedance.png)
+![One event](out_438_sla/fig2_event_trace.png)
 
 The event trace picks the seed (out of 200) where the smart layer helps most, so it illustrates a mechanism; it is not typical. In that year the baseline lost 104 h to an empty tank and 178 h to DG faults; the smart layer lost no hours to fuel.
 
